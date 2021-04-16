@@ -1,16 +1,16 @@
 
-#Readme – « Lisez-moi ».
+# Readme – « Lisez-moi ».
 
 Le fichier readme est le premier fichier qu’un développeur doit consulter avant d’entamer un projet. 
 Ainsi, il est capital que les développeurs sachent rédiger un fichier readme correct pour y compiler les informations pertinentes tout en tant concis.
 
 ***
-##Qu’est-ce qu’un fichier readme (txt/md)
+## Qu’est-ce qu’un fichier readme (txt/md)
 
 Un fichier readme, souvent readme.txt ou readme.md, contient habituellement des informations importantes à propos du système, du projet ou du logiciel en question.
 
 ***
-##Le fichier remplit différentes fonctions selon l’usage que l’on veut en faire :
+## Le fichier remplit différentes fonctions selon l’usage que l’on veut en faire :
 
  * Pour l’utilisateur final, le fichier readme clarifie différents points relatifs à l’installation, 
    à la mise à jour ou à l’utilisation d’un logiciel.
@@ -24,7 +24,7 @@ Un fichier readme, souvent readme.txt ou readme.md, contient habituellement des 
     
 ***
 
-###Mettre un mot en italique
+### Mettre un mot en italique
 
 Voici un mot *en italique* 
 
