@@ -12,9 +12,13 @@ Un fichier readme, souvent readme.txt ou readme.md, contient habituellement des 
 ***
 ##Le fichier remplit différentes fonctions selon l’usage que l’on veut en faire :
 
-    * Pour l’utilisateur final, le fichier readme clarifie différents points relatifs à l’installation, à la mise à jour ou à l’utilisation d’un logiciel.
-    *Pour le développeur du projet, le fichier readme présente deux avantages. D’une part, un fichier readme rédigé avant le début du développement donne les lignes directrices de la mise en place du projet. D’autre part, il se montre très utile pour reprendre un projet qui aurait été mis en pause pendant une longue période.
-    *Pour les autres développeurs, le fichier readme précise les règles à respecter et donne des indications précieuses pour poursuivre le développement et la mise en œuvre d’un système, d’un logiciel ou d’un projet open source.
+    * Pour l’utilisateur final, le fichier readme clarifie différents points relatifs à l’installation, 
+    à la mise à jour ou à l’utilisation d’un logiciel.
+    * Pour le développeur du projet, le fichier readme présente deux avantages. 
+    D’une part, un fichier readme rédigé avant le début du développement donne les lignes directrices de la mise en place du projet. 
+    D’autre part, il se montre très utile pour reprendre un projet qui aurait été mis en pause pendant une longue période.
+    * Pour les autres développeurs, le fichier readme précise les règles à respecter et donne des indications précieuses 
+    pour poursuivre le développement et la mise en œuvre d’un système, d’un logiciel ou d’un projet open source.
     
 ***
 
