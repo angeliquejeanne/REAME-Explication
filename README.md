@@ -23,6 +23,34 @@ Un fichier readme, souvent readme.txt ou readme.md, contient habituellement des 
    pour poursuivre le développement et la mise en œuvre d’un système, d’un logiciel ou d’un projet open source.
     
 ***
+## Que doit indiquer un fichier readme ?
+
+En fonction des objectifs, on peut y intégrer les contenus suivants :
+
+ * Une description générale du système ou du projet.
+    
+ * Le statut du projet, qui est surtout utile lorsqu’il est encore en stade du développement. 
+   Évoquez les modifications prévues et l’objectif du développement ou signalez clairement que le développement du projet est terminé.
+   
+ * Les exigences concernant l’environnement de développement en vue de son intégration.
+ 
+ * Une instruction pour l’installation et l’utilisation.
+ 
+ * Une liste des technologies utilisées et, le cas échéant, des liens vers d’autres informations sur ces technologies.
+ 
+ * Les projets open source que les développeurs modifient ou complètent par eux-mêmes doivent être complétés par un paragraphe « collaboration souhaitée » dans leur fichier readme.md. 
+   Comment contourner un problème ? Comment les développeurs doivent-ils appliquer les modifications ?
+ 
+ * Bugs connus et corrections éventuelles apportées.
+ 
+ * Section FAQ reprenant toutes les questions posées jusqu’à présent.
+ 
+ * Droits d’auteurs et informations sur la licence.
+
+Il est important de rédiger le fichier readme en l’adaptant à son utilisateur final. 
+C’est la meilleure façon de clarifier la plupart des questions qu’il pourrait se poser.
+
+***
 
 ### Mettre un mot en italique
 
